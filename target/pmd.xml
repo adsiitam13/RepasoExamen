@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.5.1" timestamp="2018-04-20T00:15:22.799">
+<file name="/Users/andreamarin/Desktop/Repaso_ADSI/RepasoExamen/src/main/java/adsi/itam/repaso/CuentaLineas.java">
+<violation beginline="97" endline="97" begincolumn="21" endcolumn="49" rule="UnusedPrivateMethod" ruleset="Unused Code" package="adsi.itam.repaso" class="CuentaLineas" method="checaComentario" externalInfoUrl="https://pmd.github.io/pmd-5.5.1/pmd-java/rules/java/unusedcode.html#UnusedPrivateMethod" priority="3">
+Avoid unused private methods such as 'checaComentario(String)'.
+</violation>
+</file>
+</pmd>

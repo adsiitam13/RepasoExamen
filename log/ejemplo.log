@@ -1,0 +1,38 @@
+2018-04-19 15:28:56:984 INFO  Ejecutable:9 - Prueba del logger
+2018-04-20 00:07:57:651 INFO  Ejecutable:7 - Inicia ejecución
+2018-04-20 00:07:57:656 ERROR CuentaLineas:92 - No se pudo leer el archivo
+2018-04-20 00:07:57:656 INFO  Ejecutable:19 - Resultado Archivo01
+2018-04-20 00:07:57:656 INFO  Ejecutable:20 - Lineas totales: 0
+Lineas de codigo:0
+Lineas de comentario: 0
+2018-04-20 00:09:05:490 INFO  Ejecutable:7 - Inicia ejecución
+2018-04-20 00:09:05:509 INFO  Ejecutable:19 - Resultado Archivo01
+2018-04-20 00:09:05:509 INFO  Ejecutable:20 - Lineas totales: 6
+Lineas de codigo:6
+Lineas de comentario: 0
+2018-04-20 00:14:49:090 INFO  Ejecutable:7 - Inicia ejecución
+2018-04-20 00:14:49:111 INFO  Ejecutable:19 - **********************
+2018-04-20 00:14:49:111 INFO  Ejecutable:20 - Resultado Archivo01
+2018-04-20 00:14:49:111 INFO  Ejecutable:21 - Lineas totales: 6
+Lineas de codigo:6
+Lineas de comentario: 0
+2018-04-20 00:14:49:112 INFO  Ejecutable:25 - **********************
+2018-04-20 00:14:49:113 INFO  Ejecutable:26 - Resultado Archivo02
+2018-04-20 00:14:49:113 INFO  Ejecutable:27 - Lineas totales: 7
+Lineas de codigo:7
+Lineas de comentario: 2
+2018-04-20 00:14:49:115 INFO  Ejecutable:31 - **********************
+2018-04-20 00:14:49:117 INFO  Ejecutable:32 - Resultado Archivo03
+2018-04-20 00:14:49:117 INFO  Ejecutable:33 - Lineas totales: 12
+Lineas de codigo:7
+Lineas de comentario: 7
+2018-04-20 00:14:49:119 INFO  Ejecutable:37 - **********************
+2018-04-20 00:14:49:119 INFO  Ejecutable:38 - Resultado Archivo04
+2018-04-20 00:14:49:119 INFO  Ejecutable:39 - Lineas totales: 13
+Lineas de codigo:7
+Lineas de comentario: 9
+2018-04-20 00:14:49:121 INFO  Ejecutable:43 - **********************
+2018-04-20 00:14:49:121 INFO  Ejecutable:44 - Resultado Archivo05
+2018-04-20 00:14:49:121 INFO  Ejecutable:45 - Lineas totales: 11
+Lineas de codigo:6
+Lineas de comentario: 6
